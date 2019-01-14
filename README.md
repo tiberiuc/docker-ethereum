@@ -22,7 +22,7 @@ $ docker run --name ethereum -d \
    --publish 9191:9191 \
    tiberiuc/ethereum
 
-$ docker logs -f etherum
+$ docker logs -f ethereum
 [ ... ]
 ```
 
