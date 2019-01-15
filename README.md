@@ -11,7 +11,7 @@ Full support for regtest and [backup_agent](https://github.com/tiberiuc/docker_b
 Requires that [Docker be installed](https://docs.docker.com/engine/installation/) on the host machine.
 
 ```
-# Create some directory where your bitcoin data will be stored.
+# Create some directory where your ethereum data will be stored.
 $ mkdir /home/youruser/ethereum_data
 
 $ docker run --name ethereum -d \
