@@ -4,7 +4,7 @@
 A Docker configuration with sane defaults for running a fully-validating
 Ethereum node, based on [Alpine Linux](https://alpinelinux.org/).
 
-Full support for regtest and [backup-agent](https://github.com/tiberiuc/docker-backup_agent)
+Full support for regtest and [backup-agent](https://github.com/tiberiuc/docker-backup-agent)
 
 ## Quick start
 
